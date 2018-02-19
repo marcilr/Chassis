@@ -10,3 +10,6 @@ chassis.txt
 
 links.txt
   Chassis related links
+
+manifest
+  Manifest for resync application

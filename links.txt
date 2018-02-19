@@ -1,0 +1,138 @@
+links.txt
+Created Tue Jun 16 13:49:46 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Chassis related links
+
+
+Links
+=====
+Streacom ST-FC8-ALPHA FC8 Evo Aluminium Fanless Chassis Black
+by Streacom
+model number: ST-FC8-ALPHA
+chassis: 6063 aluminum
+drive capacity: 2 x 2.5" + 2 x 3.5"or 5 x 2.5" or 3 x 2.5" + 1 x 3.5"
+optical:  1 x ODD + (1 x 2.5" + 2 x 3.5" or 4 x 2.5" or 2 x 2.5" + 1 x 3.5")
+front ports: 2 x USB3.0 19/20 PIN
+expansion slot: 1 x Low Profile Expansion Card
+color: black
+weight: 7.7 pounds
+dimensions: 240mm x 250mm x 100mm (W x D x H)
+            240/25.4 = 9.45" x 250/25.4 = 9.84" x 100/25.4 = 3.94"
+            Same dimensions as HDPLEX H1.SODD ??? Looks taller.
+NOTE: No special m.2/sata ssd drive required.
+      Accepts a bunch of drives.  Still need to determine chassis
+      configuration to fit my mobo though.
+price: $199.99 (amazon - June 16, 2015)
+http://www.streacom.com/products/fc8-evo-fanless-chassis/
+http://www.amazon.com/Streacom-ST-FC8-ALPHA-Aluminium-Fanless-Chassis/dp/B0073JB5QY/ref=sr_1_2?s=electronics&ie=UTF8&qid=1434500030&sr=1-2&keywords=fanless+chassis
+
+AKASA
+http://www.akasa.com.tw/
+
+AKASA
+Mini ITX
+Compact PC cases
+http://www.akasa.com.tw/update.php?tpl=product/product.list.tpl&type=Chassis&type_sub=Mini%20ITX
+
+FanlessTech
+Fair number of fanless chassis for sale.
+Akasa's look good.
+Has nice HDPLEX spread
+The HDPLEX H1/SODD series is nice and small:
+  http://www.hd-plex.com/hdplex-h1-series/
+  http://www.hd-plex.com/HDPLEX-H1.SODD-Fanless-Computer-Case.html
+  Support 12.7mm slot loading optical drive and Thin-ITX motherboard
+  Support mini-ITX motherboard with 24PIN ATX input on the right side
+  Six heatpipe solution support TDP up to 65W CPU
+  Support internal 80W AC-DC adapter for Thin-ITX
+  Software based universal USB ejection button for optical drive
+  Support Intel Haswell, Ivy Bridge,Sandy Bridge CPU and AMD FM1/FM2 APU
+  Two USB 3.0/2.0 Side Port via dual purpose internal USB cable
+
+  HDPLEX H1.SODD Supports Thin-ITX Platform
+  and internal 80W AC Adapter with 19VDC Output.
+  No more external AC Adapter!   <=== Very nice.
+
+  Running: AMD A10-6700 Richland
+           4.2GHz Socket FM2 65W <=== Looks good.
+           quad-core - $141.99 (amazon prime)
+
+  price: $219 + $32 + $26.50 = $277.50 US 
+  80W Internal AC-DC Adapter with 19V DC output (+$32.00) <===
+  100W Linear Power Supply with 19/12/9/5V DC output (+$315)
+  Interal IR with MCE Remote (+$26.50) <===
+  NOTE: No mount for IR sensor.  Definitely need to get 
+        bluetooth knocked.
+http://www.fanlesstech.com/
+
+LogicSupply
+Industrial & Embedded Computers
+http://www.logicsupply.com/computers/feature/cooling/fanless-computers/?___store=en_us&gclid=Cj0KEQjwkv-rBRDwoMLav-2l9KIBEiQAUTkDU9QFybkX3N_C2Thmh4wCQRbWRXxlS_5OLLIatalxrkEaAgEk8P8HAQ
+
+Mica T87 Fanless PC 4th Gen i3/i5/i7 Small Mini Computer (Haswell)
+Powerful Fanless Mini Computer
+o 6x USB 3.0
+o Small Form Factor
+o Low Power Consumption PC
+o Fanless Design
+o Core 4th Gen i3/i5/i7 Mini PC Computer (Haswell)
+o Haswell CPU - Powerful 4th Gen Intel Core i7 Desktop
+  in smallest Form Factor
+o Dual Gb Lan
+o ONly 16GB ram via 2 x DDR3 SO-DIMM
+o 1080p 4K UltraHD (4096 x 2160 via HDMI or DisplayPort)
+  - Supports HDMI with max. resolution 4096 x 2160 @ 24 Hz / 2560 x 1600
+    @ 60 Hz
+  - Supports DisplayPort with max. resolution 4096 x 2160
+    @ 24 Hz / 3840 x 2160 @ 60 Hz 
+    Supports up to 2 displays simultaneously
+o 9.6" wide x 8.5" deep by 2.7" high
+price: ???
+http://www.cappuccinopc.com/Mica_T87_i3_i5_i7_Haswell_Mini_itx_Fanless_Computer_PC.asp?gclid=CLKtoaqlq8YCFYqIfgodr6wAmw
+
+Streacom FC8 Evo Fanless Chassis
+motherboard: Mini ITX
+All Aluminun, silver or black
+bays: 1x 2.5"
+      1x 3.5" or 2.5" (shared bay)
+expansion: 1 x Low profile expansion card
+1x slim optical drive
+1x Low profile expansion card
+front ports: 2 x USB2.0 (*USB3.0 Ready, cable sold separately)
+cooling: Heatpipe Direct Touch 4 Pipes Max CPU TDP 95W
+dimension: 240 x 250 x 100mm (W x D x H)
+           25.4mm per inch, hence:
+           240/25.4 = 9.45" x 250/25.4 = 9.84" x 100/25.4 = 3.94"
+power supply: NanoPSU & AC Adapter (not Included)
+remote control: MCE Compatible IR Receiver & Remote (not Included)
+net weight: 2.5KG
+http://www.streacom.com/products/fc8-evo-fanless-chassis/
+
+Streacom ST-FC8B-ALPHA-OPT Fanless Chassis
+price: $190 (newegg - June 16, 2015)
+http://www.newegg.com/Product/Product.aspx?Item=9SIA5FY2MW2543&nm_mc=KNC-GoogleMKP-PC&cm_mmc=KNC-GoogleMKP-PC-_-pla-_-HTPC+%2f+Media+Center+Cases-_-9SIA5FY2MW2543&gclid=Cj0KEQjwkv-rBRDwoMLav-2l9KIBEiQAUTkDU15HBibi3YNH02tTEbJUPzDkKVvzoovEFnaMdxRQY4IaAnLr8P8HAQ&gclsrc=aw.ds
+
+Streacom System Build Guide
+Supports intel and amd:
+Intel Socket:
+  LGA I366
+  LGA II55/6
+  LGA II50
+AMD Socket:
+  AM2 & 2+
+  AM3 & 3+
+  FM1
+  FM2
+http://www.streacom.com/system-build-guide/
+
+Timelapsed build of a HD-Plex Fanless H1.SODD PC Case
+April 1, 2015 - 7:00 pm
+HDPLEX H1.SODD fanless computer case supports Thin ITX and Mini ITX
+with 24PIN ATX plug on the right side.  When using mini ITX inside
+HDPLEX H1.SODD, VLP (very low profile) memory is required otherwise
+the memory will conflict with optical drive.  M.2/mSATA SSD is
+required for H1.SODD.  Regular 2.5" SSD/HDD is NOT supported.
+Own 2x 1TB Crucial M550 2.5 <=== Not M.2/mSATA 
+http://www.hd-plex.com/blog/tag/hdplex-h1-sodd/

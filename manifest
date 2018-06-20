@@ -12,6 +12,7 @@
 # some repos like svn-to-git/ that have acutally dashes in the repo name.
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
+ssh://git@github.com/marcilr/a-tech-fabrication     a-tech-fabrication
 ssh://htpc/data/git/hardware/fanless/cappuccinopc   cappuccinopc
 ssh://git@github.com/marcilr/chenbro                chenbro
 ssh://git@github.com/marcilr/chassis-supermicro     supermicro

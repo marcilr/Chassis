@@ -5,14 +5,25 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+cappuccinopc/
+  CappaccinoPC - Fanless Mini PC
+  http://www.cappuccinopc.com/solutions/fanless_mini_pc.asp
+
 chassis.txt
   Chassis
 
 chenbro/
   Chenbro chassis
 
+global-american/
+  Fanless reliable computing power
+
 links.txt
   Chassis related links
+
+logic-supply/
+  Logic Supply - Industrial and Embedded Computers & Components
+  https://www.logicsupply.com/products/
 
 manifest
   Manifest for resync application

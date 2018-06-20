@@ -15,4 +15,5 @@
 ssh://git@github.com/marcilr/chenbro              chenbro
 ssh://git@github.com/marcilr/chassis-supermicro   supermicro
 ssh://git@github.com/marcilr/hdplex               hdplex
+ssh://git@github.com/marcilr/logic-supply         logic-supply
 ssh://git@github.com/marcilr/trenton              trenton

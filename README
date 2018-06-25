@@ -28,6 +28,9 @@ logic-supply/
 manifest
   Manifest for resync application
 
+streacom/
+  Streacom fanless chassis
+
 supermicro/
   Chassis by Supermicro
 

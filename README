@@ -5,6 +5,9 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+.gitignore
+  Files for git to ignore
+
 cappuccinopc/
   CappaccinoPC - Fanless Mini PC
   http://www.cappuccinopc.com/solutions/fanless_mini_pc.asp
